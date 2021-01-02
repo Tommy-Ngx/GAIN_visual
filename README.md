@@ -33,6 +33,4 @@ Create a new environment where Tensorflow and related dependencies are installed
 	```
   5. Open main.ipynb and mention the dataset among the 3 datasets - college, spam, letter for which you want to run the GAIN algorithm. A csv will be generated for the imputed data which we can use for analysis.
   
-  6. For visualizing the imputation accuracy thrugh various plots, run visualisation.ipynb 
-  
-  here:  https://github.com/Tommy-Ngx/GAIN_visual/blob/main/visualisation.ipynb.
+  6. For visualizing the imputation accuracy thrugh various plots, run visualisation.ipynb at [here](https://github.com/Tommy-Ngx/GAIN_visual/blob/main/visualisation.ipynb)
